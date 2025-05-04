@@ -1,0 +1,44 @@
+หัวข้อ,ลิงก์เต็ม
+วิเคราะห์การถดถอยเชิงเส้นด้วยเทคนิคการเคลื่อนลงตามความชัน,https://phyblas.hinaboshi.com/20161210
+วิเคราะห์การถดถอยเชิงเส้นหลายมิติ,https://phyblas.hinaboshi.com/20161212
+วิเคราะห์การถดถอยพหุนาม,https://phyblas.hinaboshi.com/20161219
+วิเคราะห์การถดถอยโดยใช้ฟังก์ชันฐาน,https://phyblas.hinaboshi.com/20180720
+วิธีการเคอร์เนล,https://phyblas.hinaboshi.com/20180724
+จากการวิเคราะห์การถดถอยเชิงเส้นสู่ปัญหาการจำแนกประเภท,https://phyblas.hinaboshi.com/20161224
+วิเคราะห์จำแนกประเภทข้อมูลเป็นสองกลุ่มด้วยการถดถอยโลจิสติก,https://phyblas.hinaboshi.com/20161103
+วิเคราะห์จำแนกประเภทข้อมูลเป็นหลายกลุ่มด้วยการถดถอยโลจิสติกแบบมัลติโนเมียล (การถดถอยซอฟต์แม็กซ์),https://phyblas.hinaboshi.com/20161205
+เอนโทรปีไขว้ในการวิเคราะห์การถดถอยโลจิสติก,https://phyblas.hinaboshi.com/20161207
+การทำมินิแบตช์,https://phyblas.hinaboshi.com/20161228
+แยกแยะภาพตัวเลขที่เขียนด้วยลายมือด้วยการวิเคราะห์การถดถอยโลจิสติก,https://phyblas.hinaboshi.com/20170922
+การเรกูลาไรซ์เพื่อป้องกันการเรียนรู้เกิน,https://phyblas.hinaboshi.com/20170928
+แนวทางต่างๆในการปรับปรุงวิธีการเคลื่อนลงตามความชัน,https://phyblas.hinaboshi.com/20171002
+แบบจำลองการวิเคราะห์การถดถอยโลจิสติกที่พร้อมใช้งาน,https://phyblas.hinaboshi.com/20171006
+วิเคราะห์การถดถอยโลจิสติกด้วย sklearn,https://phyblas.hinaboshi.com/20171010
+การแบ่งกระจุกข้อมูลด้วยวิธีการ k เฉลี่ย,https://phyblas.hinaboshi.com/20171220
+วิธีการ k เฉลี่ยโดยใช้ sklearn,https://phyblas.hinaboshi.com/20171224
+แยกแยะภาพตัวเลขที่เขียนด้วยลายมือด้วยวิธีการ k เฉลี่ย,https://phyblas.hinaboshi.com/20171228
+การทำข้อมูลให้เป็นมาตรฐานเพื่อการเรียนรู้ของเครื่อง,https://phyblas.hinaboshi.com/20161124
+การแยกข้อมูลตรวจสอบกับข้อมูลฝึกเพื่อป้องกันการเรียนรู้เกิน,https://phyblas.hinaboshi.com/20170924
+การคัดเลือกค่าแทนลักษณะโดยวิธีการคัดเลือกย้อนกลับหลังตามลำดับ,https://phyblas.hinaboshi.com/20171211
+การวิเคราะห์องค์ประกอบหลัก (PCA),https://phyblas.hinaboshi.com/20180727
+การวิเคราะห์องค์ประกอบหลักแบบเคอร์เนล,https://phyblas.hinaboshi.com/20180730
+การวิเคราะห์องค์ประกอบหลักด้วยการแยกค่าเอกฐาน (SVD),https://phyblas.hinaboshi.com/20190916
+การวิเคราะห์องค์ประกอบหลักด้วย sklearn,https://phyblas.hinaboshi.com/20190921
+การวิเคราะห์องค์ประกอบหลักเพื่อบีบอัดข้อมูลรูปภาพ,https://phyblas.hinaboshi.com/20190928
+การวิเคราะห์การจำแนกประเภทเชิงเส้น (LDA),https://phyblas.hinaboshi.com/20180802
+การทำแผนที่โยงก่อร่างตัวเอง (SOM),https://phyblas.hinaboshi.com/20180805
+การสร้างเมทริกซ์ความสับสนเพื่อวิเคราะห์ผลการเรียนรู้ของเครื่อง,https://phyblas.hinaboshi.com/20170926
+"ผลบวกลบจริงปลอม, ความเที่ยงและความระลึกได้, ค่าคะแนน f1",https://phyblas.hinaboshi.com/20171014
+วาดเส้นกราฟ ROC เพื่อประเมินผลการทำนาย,https://phyblas.hinaboshi.com/20171016
+การตรวจสอบแบบไขว้ k-fold เพื่อสลับเวียนข้อมูลที่ใช้ในการฝึกฝนและตรวจสอบ,https://phyblas.hinaboshi.com/20171018
+การค้นหาค่าไฮเพอร์พารามิเตอร์ที่เหมาะสมด้วยการตรวจสอบแบบไขว้,https://phyblas.hinaboshi.com/20171020
+การวิเคราะห์เส้นโค้งการเรียนรู้เพื่อตรวจดูปัญหาการเรียนรู้เกินหรือเรียนรู้ไม่พอ,https://phyblas.hinaboshi.com/20171024
+สร้างข้อมูลกลุ่มก้อนกลมๆ,https://phyblas.hinaboshi.com/20161127
+สร้างข้อมูลกลุ่มรูปจันทร์เสี้ยว,https://phyblas.hinaboshi.com/20171202
+สร้างข้อมูลกลุ่มรูปไข่ดาว,https://phyblas.hinaboshi.com/20180716
+สร้างภาพรูปร่าง ๕ ชนิด,https://phyblas.hinaboshi.com/20180811
+การสร้างฟังก์ชัน softmax,https://phyblas.hinaboshi.com/20161206
+"การใช้ฟังก์ชัน cdist, pdist และ squareformเพื่อหาระยะห่างระหว่างจุดต่างๆ",https://phyblas.hinaboshi.com/20180722
+ทำความเข้าใจเอนโทรปีไขว้และค่าควรจะเป็น,https://phyblas.hinaboshi.com/20180814
+การเก็บแบบจำลองที่เรียนรู้เสร็จแล้วไว้ใช้งานทีหลัง,https://phyblas.hinaboshi.com/20171012
+ความแตกต่างของการเรียนรู้ของเครื่องแบบมีและไม่มีผู้สอน,https://phyblas.hinaboshi.com/20171215
